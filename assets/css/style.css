@@ -35,7 +35,6 @@ img{
   .medium, .large{
     display: none;
   }
-  
 }
 
 @media (min-width:768px) and (max-width:991px){
@@ -61,7 +60,7 @@ img{
   }
 }
 
-@media (min-width:1200) and (max-width:30000px){
+@media (min-width:1200px)  {
   img, .small, .medium, .large{
     display: none;
   }
